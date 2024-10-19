@@ -61,7 +61,7 @@ select {
     padding: 9px 87px 8px 12px;
     font-weight: 400;
     font-size: 16px;
-    background: url("./ep_arrow-down.svg") no-repeat right 12px top 50%;
+    background: url("./img/ep_arrow-down.svg") no-repeat right 12px top 50%;
     appearance: none;
     /* Стили для выпадающего списка */
 }
@@ -74,7 +74,7 @@ select {
 }
 
 .frameworks-list {
-    list-style-image: url("./solar_map-arrow-up-bold.svg");
+    list-style-image: url("./img/solar_map-arrow-up-bold.svg");
     padding-left: 20px;
     font-weight: 400;
     font-size: 16px;
